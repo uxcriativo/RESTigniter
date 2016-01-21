@@ -1,0 +1,1 @@
+ALTER TABLE _sessions CHANGE id id VARCHAR(40) NOT NULL
