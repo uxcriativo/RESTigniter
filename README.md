@@ -12,11 +12,10 @@ RESTigniter is a Full-API with CI3 + CURL1.3+ ORMigniter (template engine with P
 - CURL 1.3.0 
 - 'REST-CLIENT'
 - 'REST-SERVER'
-
------------------------------forked from: 
+- forked from: 
 - [ORMigniter](https://github.com/uxcriativo/ORMigniter);
 - [TEMPLATinigiter](https://github.com/uxcriativo/TEMPLATigniter);
------------------------------------------
+
 
 ##Why RESTigniter?
 - Private Areas: 
